@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Tonytpz
+- 👀 I’m interested in getting ready for a full stack developer!
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on every project to make the life easier.
+- 📫 How to reach me antonio.tpz97@icloud.com
+- ⚡ Fun fact: I'm a Machatronic Engineer who loves PLC programming and dislikes mechanical systems 🥹
