@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tonytpz
+- 👋 Hi, I’m @Tonytpz, I'm 27 years old and I'm from México.
 - 👀 I’m interested in getting ready for a full stack developer!
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on every project to make the life easier.
